@@ -2,6 +2,7 @@
 
 ## Sobre mim
 - 🐍 Estudando e criando projetos em Python
+- 🦈 Estudante da Sharkcoders
 - 🌱 Aprendendo agora: (coloca o que estás estudando)
 - 📫 Contato: (teu e-mail ou rede social)
 
